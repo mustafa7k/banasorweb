@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/gizlilik-politikasi/page": "app/gizlilik-politikasi/page.js",
+  "/iletisim/page": "app/iletisim/page.js",
+  "/kullanim-kosullari/page": "app/kullanim-kosullari/page.js",
+  "/kvkk/page": "app/kvkk/page.js"
+}
