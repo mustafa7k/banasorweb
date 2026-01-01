@@ -16,20 +16,15 @@
       "static/chunks/main-app.js",
       "static/chunks/app/gizlilik-politikasi/page.js"
     ],
-    "/iletisim/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/iletisim/page.js"
-    ],
     "/kullanim-kosullari/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/kullanim-kosullari/page.js"
     ],
-    "/kvkk/page": [
+    "/iletisim/page": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
-      "static/chunks/app/kvkk/page.js"
+      "static/chunks/app/iletisim/page.js"
     ]
   }
 }

@@ -1,4 +1,4 @@
-// File: /Users/mustafa/Documents/GitHub/banasorweb/app/gizlilik-politikasi/page.tsx
+// File: C:\Users\emre2\Downloads\banasorweb\app\gizlilik-politikasi\page.tsx
 import * as entry from '../../../../app/gizlilik-politikasi/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
